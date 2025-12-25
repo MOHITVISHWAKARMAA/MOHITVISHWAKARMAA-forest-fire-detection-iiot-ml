@@ -1,1 +1,0 @@
-print('Running Forest Fire Detection System...')
